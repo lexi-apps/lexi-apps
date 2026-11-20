@@ -5,6 +5,7 @@
 **Focused desktop software for Windows 10 & 11 (64-bit) — fast, local-first, and built without visual noise.**
 
 [![Official Website](https://img.shields.io/badge/Website-lexi--apps.pages.dev-ff5a36?style=for-the-badge)](https://lexi-apps.pages.dev/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HN9eWThUn2)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=05070a)](https://buymeacoffee.com/lexiapps)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/LexiApps)
 
@@ -35,5 +36,6 @@
 ## Support & Contact / Destek ve İletişim
 
 - **Website:** [lexi-apps.pages.dev](https://lexi-apps.pages.dev/)
+- **Discord Community:** [discord.gg/HN9eWThUn2](https://discord.gg/HN9eWThUn2)
 - **Support:** [Buy Me a Coffee](https://buymeacoffee.com/lexiapps) · [Patreon](https://www.patreon.com/cw/LexiApps)
 - **Contact:** `lexiapps@protonmail.com`
